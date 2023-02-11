@@ -1,1 +1,1 @@
-This script contains the deployment logic
+This script contains the deployment logithe file is updated nowc
